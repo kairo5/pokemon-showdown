@@ -82969,6 +82969,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			trick: ["8L1"],
 			protect: ["8L1"],
 			testpunch: ["8L1"],
+			blizzard: ["8L1"],
 		},
 	},
 };
